@@ -12,7 +12,7 @@
 
 ## 1. Acceptance of Terms
 
-By accessing or using MaiBotKt ("the Bot," "we," "us," or "our"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to all of the terms and conditions set forth herein, you must not use the Bot. These Terms constitute a legally binding agreement between you ("the User," "you," or "your") and the Developer.
+By accessing or using maimai gay bot ("the Bot," "we," "us," or "our"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to all of the terms and conditions set forth herein, you must not use the Bot. These Terms constitute a legally binding agreement between you ("the User," "you," or "your") and the Developer.
 
 ## 2. Description of Service
 
