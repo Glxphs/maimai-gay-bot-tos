@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy ("Policy") describes how MaiBotKt ("the Bot," "we," "us," or "our") collects, uses, stores, and protects your personal information when you use our services. By using the Bot, you consent to the collection, use, and handling of your information as described in this Policy. If you do not agree with this Policy, you must not use the Bot.
+This Privacy Policy ("Policy") describes how maimai gay bot ("the Bot," "we," "us," or "our") collects, uses, stores, and protects your personal information when you use our services. By using the Bot, you consent to the collection, use, and handling of your information as described in this Policy. If you do not agree with this Policy, you must not use the Bot.
 
 ## 2. Information We Collect
 
