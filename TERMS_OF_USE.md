@@ -2,7 +2,7 @@
 
 **Effective Date:** 2025-05-14
 
-**Bot Name:** maimai gay bot
+**Bot Name:** maimai gay bot (mai bot 2.0#1398)
 
 **Developer:** glxphs
 
